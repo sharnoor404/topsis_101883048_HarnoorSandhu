@@ -1,2 +1,1 @@
-# topsis_101883048_HarnoorSandhu
-This package implements topsis package
+The Technique for Order of Preference by Similarity (TOPSIS) to Ideal Solution is a multi-criteria decision analysis method.
